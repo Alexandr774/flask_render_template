@@ -162,3 +162,4 @@ cython_debug/
 pg_data
 deploy/pg_data
 test.py
+.static/
